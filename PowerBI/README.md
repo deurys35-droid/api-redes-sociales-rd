@@ -1,1 +1,1 @@
-Dashboard de Power BI del proyecto
+Dashboard de App Redes Sociales con Magicsloocs.
