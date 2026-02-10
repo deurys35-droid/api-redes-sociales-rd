@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "RedesSocialesRD_API.Controllers.RedesSocialesController",
+    "Method": "PorPlataforma",
+    "RelativePath": "api/redes/por-plataforma",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RedesSocialesRD_API.Controllers.RedesSocialesController",
+    "Method": "ResumenSentimiento",
+    "RelativePath": "api/redes/resumen-sentimiento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
